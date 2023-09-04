@@ -6,6 +6,32 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions (to appear)</a></div>
+    <div class="author"> <strong>Taehyung Kwon</strong>, Jihoon Ko, Jinhong Jung, Kijung Shin</div>
+    <div class="periodical"><em>IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2023.</em></div>    
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226">NeuKron: Constant-Size Lossy Compression of Sparse
+Reorderable Matrices and Tensors</a></div>
+    <div class="author"> <strong>Taehyung Kwon*</strong>, Jihoon Ko*, Jinhong Jung, Kijung Shin</div>
+    <div class="periodical"><em>the ACM Web Conference <strong>(WWW)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/kbrother/NeuKron" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qRfD4QztBjcJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniRiKU:AFWwaeYAAAAAZPWXkKVDZW_gDP81l9imvIGbVw4&scisig=AFWwaeYAAAAAZPWXkDpJKNY7_WXDnXDHlvHWVF4&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
+    </div>
+  </div>
+</div>
+</li>
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498390">Finding a Concise, Precise, and Exhaustive Set of Near
 Bi-Cliques in Dynamic Graphs</a></div>
     <div class="author"> Hyeonjeong Shin, <strong>Taehyung Kwon</strong>, Neil Shah, Kijung Shin</div>
@@ -14,6 +40,20 @@ Bi-Cliques in Dynamic Graphs</a></div>
       <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hyeonjeong1/cutnpeel" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:uXts7zYbkOMJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniI0kE:AFWwaeYAAAAAZPWOykE2nXAx3wq1oOeAu4xruYw&scisig=AFWwaeYAAAAAZPWOyvBTYc0Ia9b5-LTDd2zarl0&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2106.06210.pdf">Learning to Pool in Graph Neural Networks for Extrapolation</a></div>
+    <div class="author"> Jihoon Ko, <strong>Taehyung Kwon</strong>, Kijung Shin, Juho Lee</div>
+    <div class="periodical"></em>Preprint, 2021.</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2106.06210.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:v0enUf-wA1IJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniQqCo:AFWwaeYAAAAAZPWWsCoFqfJQwjwQBriWxdm2Hk8&scisig=AFWwaeYAAAAAZPWWsHbrwk6qkpUEAVHxVjuVBI0&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
