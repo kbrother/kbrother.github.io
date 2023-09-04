@@ -13,5 +13,3 @@ My advisor is Professor Kijung Shin.
 - **Tensor Compression:** [NeuKron](https://dl.acm.org/doi/pdf/10.1145/3543507.3583226) (WWW 23), TensorCodec (ICDM 23)
 
 {% include_relative _includes/publications.md %}
-
-<!---{% include_relative _includes/services.md %}-->
