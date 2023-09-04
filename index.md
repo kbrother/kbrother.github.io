@@ -4,19 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at KAIST AI.
+My advisor is Professor Kijung Shin.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Online Learning:** [SliceNStitch](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458693) (ICDE 21)
+- **Tensor Compression:** [NeuKron](https://dl.acm.org/doi/pdf/10.1145/3543507.3583226) (WWW 23), TensorCodec (ICDM 23)
 
 {% include_relative _includes/publications.md %}
 
