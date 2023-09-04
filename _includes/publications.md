@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions (to appear)</a></div>
+    <div class="title">TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions (to appear)</div>
     <div class="author"> <strong>Taehyung Kwon</strong>, Jihoon Ko, Jinhong Jung, Kijung Shin</div>
     <div class="periodical"><em>IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2023.</em></div>    
   </div>
