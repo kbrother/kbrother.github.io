@@ -50,7 +50,7 @@ Bi-Cliques in Dynamic Graphs</a></div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2106.06210.pdf">[P1] Learning to Pool in Graph Neural Networks for Extrapolation</a></div>
     <div class="author"> Jihoon Ko, <strong>Taehyung Kwon</strong>, Kijung Shin, Juho Lee</div>
-    <div class="periodical"></em>Preprint, 2021.<em></div>
+    <div class="periodical"></em>Preprint, 2021.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2106.06210.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:v0enUf-wA1IJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniQqCo:AFWwaeYAAAAAZPWWsCoFqfJQwjwQBriWxdm2Hk8&scisig=AFWwaeYAAAAAZPWWsHbrwk6qkpUEAVHxVjuVBI0&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
