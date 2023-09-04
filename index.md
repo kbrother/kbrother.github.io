@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [KAIST](https://kaist.ac.kr/kr/) AI (Advisor: [Kijung Shin](https://kijungs.github.io/)).
+I am a Ph.D. student at [KAIST](https://kaist.ac.kr/kr/) AI, and I am advised by [Prof. Kijung Shin](https://kijungs.github.io/).
 
 ## Education
 ### KAIST
