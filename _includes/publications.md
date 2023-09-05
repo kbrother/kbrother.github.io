@@ -19,7 +19,7 @@
     <div class="title"><a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226"> [C3] NeuKron: Constant-Size Lossy Compression of Sparse
 Reorderable Matrices and Tensors</a></div>
     <div class="author"> <strong>Taehyung Kwon*</strong>, Jihoon Ko*, Jinhong Jung, Kijung Shin</div>
-    <div class="periodical"><em>the ACM Web Conference <strong>(WWW)</strong>, 2023.</em></div>
+    <div class="periodical"><em>The ACM Web Conference <strong>(WWW)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/NeuKron" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
