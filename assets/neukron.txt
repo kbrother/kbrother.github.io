@@ -1,0 +1,7 @@
+@inproceedings{kwon2023neukron,
+  title={NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors},
+  author={Kwon, Taehyung and Ko, Jihoon and Jung, Jinhong and Shin, Kijung},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={71--81},
+  year={2023}
+}
