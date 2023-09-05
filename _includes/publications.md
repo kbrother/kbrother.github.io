@@ -23,7 +23,7 @@ Reorderable Matrices and Tensors</a></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/NeuKron" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qRfD4QztBjcJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniRiKU:AFWwaeYAAAAAZPWXkKVDZW_gDP81l9imvIGbVw4&scisig=AFWwaeYAAAAAZPWXkDpJKNY7_WXDnXDHlvHWVF4&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
+      <a href="https://dblp.org/rec/conf/www/KwonKJS23.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
@@ -39,7 +39,7 @@ Bi-Cliques in Dynamic Graphs</a></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hyeonjeong1/cutnpeel" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:uXts7zYbkOMJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniI0kE:AFWwaeYAAAAAZPWOykE2nXAx3wq1oOeAu4xruYw&scisig=AFWwaeYAAAAAZPWOyvBTYc0Ia9b5-LTDd2zarl0&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
+      <a href="https://dblp.org/rec/conf/wsdm/ShinKSS22.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
@@ -53,7 +53,7 @@ Bi-Cliques in Dynamic Graphs</a></div>
     <div class="periodical"><em>Preprint, 2021.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2106.06210.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:v0enUf-wA1IJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniQqCo:AFWwaeYAAAAAZPWWsCoFqfJQwjwQBriWxdm2Hk8&scisig=AFWwaeYAAAAAZPWWsHbrwk6qkpUEAVHxVjuVBI0&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
+      <a href="https://dblp.org/rec/journals/corr/abs-2106-06210.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
@@ -77,7 +77,7 @@ Sparse Tensor Streams</a></div>
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458693" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/DMLab-Tensor/SliceNStitch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>  -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:V2Gmx7RzrGEJ:scholar.google.com/&output=citation&scisdr=ClE5LSUsEM35wniMRto:AFWwaeYAAAAAZPWKXtpEEckmE1FAEpPkgG5hmdA&scisig=AFWwaeYAAAAAZPWKXslcd0OSt82majeoD1tLWNw&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.org/rec/conf/icde/Kwon0LS21.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->      
     </div>
   </div>
