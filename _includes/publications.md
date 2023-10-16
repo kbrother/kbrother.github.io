@@ -27,7 +27,7 @@ Reorderable Matrices and Tensors</a></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/NeuKron" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
-      <a href="/assets/NeuKron_WWW23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
+      <a href="https://kbrother.github.io/assets/NeuKron_WWW23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
       <a href="https://dblp.org/rec/conf/www/KwonKJS23.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
@@ -81,7 +81,7 @@ Sparse Tensor Streams</a></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458693" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/DMLab-Tensor/SliceNStitch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
-      <a href="/assets/SliceNStitch_ICDE21.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
+      <a href="https://kbrother.github.io/assets/SliceNStitch_ICDE21.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>  -->
       <a href="https://dblp.org/rec/conf/icde/Kwon0LS21.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->      
