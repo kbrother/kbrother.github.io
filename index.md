@@ -8,9 +8,9 @@ I am a Ph.D. student at [KAIST](https://kaist.ac.kr/kr/) AI, and I am advised by
 
 ## Education
 ### KAIST
-Ph.D. in Artificial Intelligence (Mar. 2022 - )<br>
-M.S in Artificial Intelligence (Mar. 2020 - Feb. 2022)<br>
-B.S. in Computer Science (Mar. 2015 - Feb. 2020)
+- **Ph.D.** in Artificial Intelligence (Mar. 2022 - )<br>
+- **M.S** in Artificial Intelligence (Mar. 2020 - Feb. 2022)<br>
+- **B.S.** in Computer Science (Mar. 2015 - Feb. 2020)
 
 ## Research Interests
 
