@@ -9,7 +9,7 @@
     <div class="title">[C4] TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions (to appear)</div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Kijung Shin</div>
     <div class="periodical"><em>IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2023.</em></div>    
-    <strong><i style="color:#e74d3c">Best Student Paper Runner-up Award</i></strong> 
+    <strong><i style="color:#e74d3c">Best Student Paper Runner-up Award</i></strong> <a href="https://icdm.zhonghuapu.com/Awards/BestPapers.shtml"> [Link]
     <div class="links">
       <a href="https://browse.arxiv.org/pdf/2309.10310.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/TensorCodec" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
