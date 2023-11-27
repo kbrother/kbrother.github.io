@@ -8,7 +8,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">[C4] TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions (to appear)</div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Kijung Shin</div>
-    <div class="periodical"><em>IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2023.</em></div>    
+    <div class="periodical"><em><strong>ICDM 2023</strong></em></div>    
     <strong><i style="color:#e74d3c">Best Student Paper Runner-up Award</i></strong> <a href="https://icdm.zhonghuapu.com/Awards/BestPapers.shtml"> [Link] </a>
     <div class="links">
       <a href="https://browse.arxiv.org/pdf/2309.10310.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -24,7 +24,7 @@
     <div class="title"><a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226"> [C3] NeuKron: Constant-Size Lossy Compression of Sparse
 Reorderable Matrices and Tensors</a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins>*</strong>, Jihoon Ko*, Jinhong Jung, Kijung Shin</div>
-    <div class="periodical"><em>The ACM Web Conference <strong>(WWW)</strong>, 2023.</em></div>
+    <div class="periodical"><em><strong>WWW 2023</strong></em></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/NeuKron" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
@@ -41,7 +41,7 @@ Reorderable Matrices and Tensors</a></div>
     <div class="title"><a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498390">[C2] Finding a Concise, Precise, and Exhaustive Set of Near
 Bi-Cliques in Dynamic Graphs</a></div>
     <div class="author"> Hyeonjeong Shin, <strong><ins>Taehyung Kwon</ins></strong>, Neil Shah, Kijung Shin</div>
-    <div class="periodical"><em>ACM International Conference on Web Search and Data Mining <strong>(WSDM)</strong>, 2022.</em></div>
+    <div class="periodical"><em><strong>WSDM 2022</strong></em></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hyeonjeong1/cutnpeel" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
@@ -78,7 +78,7 @@ Bi-Cliques in Dynamic Graphs</a></div>
     <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458693">[C1] SliceNStitch: Continuous CP Decomposition of
 Sparse Tensor Streams</a></div>
     <div class="author"><strong><ins>Taehyung Kwon</ins>*</strong>, Inkyu Park*, Dongjin Lee, Kijung Shin</div>
-    <div class="periodical"><em>IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2021.</em></div>
+    <div class="periodical"><em><strong>ICDE 2021</strong></em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458693" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/DMLab-Tensor/SliceNStitch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
