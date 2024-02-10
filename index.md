@@ -15,7 +15,7 @@ I am a Ph.D. student at [KAIST](https://kaist.ac.kr/kr/) AI, and I am advised by
 ## Research Interests
 
 - **Online Learning:** [SliceNStitch](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458693) (ICDE 21)
-- **Tensor Compression:** [NeuKron](https://dl.acm.org/doi/pdf/10.1145/3543507.3583226) (WWW 23), TensorCodec (ICDM 23)
+- **Tensor Compression:** [NeuKron](https://dl.acm.org/doi/pdf/10.1145/3543507.3583226) (WWW 23), [TensorCodec](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415668) (ICDM 23)
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/awards.md %}
