@@ -6,12 +6,12 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[C4] TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions (to appear)</div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415668">[C4] TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions </a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Kijung Shin</div>
     <div class="periodical"><em><strong>ICDM 2023</strong></em></div>    
     <strong><i style="color:#e74d3c">Best Student Paper Runner-up Award</i></strong> <a href="https://icdm.zhonghuapu.com/Awards/BestPapers.shtml"> [Link] </a>
     <div class="links">
-      <a href="https://browse.arxiv.org/pdf/2309.10310.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415668" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
       <a href="https://github.com/kbrother/TensorCodec" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
       <a href="https://kbrother.github.io/assets/ICDM23_TensorCodec.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
     </div>    
