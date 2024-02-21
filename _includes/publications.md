@@ -14,6 +14,7 @@
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415668" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
       <a href="https://github.com/kbrother/TensorCodec" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
       <a href="https://kbrother.github.io/assets/ICDM23_TensorCodec.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
+      <a href="https://dblp.org/rec/conf/icdm/KwonKJS23.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>    
   </div>
 </div>
