@@ -40,7 +40,7 @@ Reorderable Matrices and Tensors</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2106.06210.pdf">[P2] Begin: Extensive Benchmark Scenarios and an Easy-to-use Framework for Graph Continual Learning</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2211.14568.pdf">[P2] Begin: Extensive Benchmark Scenarios and an Easy-to-use Framework for Graph Continual Learning</a></div>
     <div class="author"> Jihoon Ko*, Shinhwan Kang*, <strong><ins>Taehyung Kwon</ins></strong>, Heechan Moon, Kijung Shin </div>
     <div class="periodical"><em>Preprint, 2022.</em></div>
     <div class="links">
