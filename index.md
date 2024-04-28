@@ -19,3 +19,4 @@ I am a Ph.D. student at [KAIST](https://kaist.ac.kr/kr/) AI, and I am advised by
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/awards.md %}
+{% include_relative _includes/services.md %}
