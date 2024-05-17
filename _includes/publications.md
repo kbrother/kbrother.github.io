@@ -6,6 +6,16 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">[C5] Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors (to appear) </div>
+    <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
+    <div class="periodical"><em><strong>KDD 2024</strong></em></div>    
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415668">[C4] TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions </a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Kijung Shin</div>
     <div class="periodical"><em><strong>ICDM 2023</strong></em></div>    
