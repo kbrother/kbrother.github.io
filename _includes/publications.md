@@ -9,6 +9,9 @@
     <div class="title">[C5] Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors (to appear) </div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
     <div class="periodical"><em><strong>KDD 2024</strong></em></div>    
+     <div class="links">  
+      <a href="https://github.com/kbrother/Light-IT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
+    </div>    
   </div>
 </div>
 </li>
