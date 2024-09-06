@@ -8,7 +8,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">[C6] ELiCiT: Effective and Lightweight Lossy Compression of Tensors (to appear) </div>
     <div class="author"> Jihoon Ko, <strong><ins>Taehyung Kwon</ins></strong>, Jinhong Jung, Kijung Shin</div>
-    <div class="periodical"><em><strong>ICDM 2024</strong></em></div>        
+    <div class="periodical"><em><strong>ICDM 2024</strong></em></div>       
+    <div class="links">     
+    </div>   
   </div>
 </div>
 </li>
