@@ -6,14 +6,14 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=https://dl.acm.org/doi/abs/10.1145/3637528.3671846>[C5] Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors </a></div>
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671846">[C5] Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors </a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
-    <div class="periodical"><em><strong>KDD 2024</strong></em></div>    
-     <div class="links">  
-       <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671846" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
-       <a href="https://github.com/kbrother/Light-IT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>   
-       <a href="https://kbrother.github.io/assets/KDD24_LightIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
-       <a href="https://dblp.org/rec/conf/kdd/KwonKJJS24.html?view=bibtex" role="button" target="_blank" style="font-size:12px;">BibTex</a>   
+    <div class="periodical"><em><strong>KDD 2024</strong></em></div>        
+    <div class="links">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671846" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
+      <a href="https://github.com/kbrother/Light-IT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
+      <a href="https://kbrother.github.io/assets/KDD24_LightIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
+      <a href="https://dblp.org/rec/conf/kdd/KwonKJJS24.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>    
   </div>
 </div>
