@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=https://dl.acm.org/doi/abs/10.1145/3637528.3671846>[C5] Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors </div>
+    <div class="title"><a href=https://dl.acm.org/doi/abs/10.1145/3637528.3671846>[C5] Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors </a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
     <div class="periodical"><em><strong>KDD 2024</strong></em></div>    
      <div class="links">  
