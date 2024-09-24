@@ -6,6 +6,17 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">[J1] Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition (to appear) </div>
+    <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
+    <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>       
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">[C6] ELiCiT: Effective and Lightweight Lossy Compression of Tensors (to appear) </div>
     <div class="author"> Jihoon Ko, <strong><ins>Taehyung Kwon</ins></strong>, Jinhong Jung, Kijung Shin</div>
     <div class="periodical"><em><strong>ICDM 2024</strong></em></div>       
