@@ -22,9 +22,13 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[J1] Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition (to appear) </div>
+    <div class="title">[J1] Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition </div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
-    <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>       
+    <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>      
+    <div class="links">
+      <a href="https://link.springer.com/article/10.1007/s10115-024-02252-x" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/kbrother/TensorCodecM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
+    </div>
   </div>
 </div>
 </li>
