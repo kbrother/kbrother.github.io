@@ -22,7 +22,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[J1] Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition </div>
+    <div class="title"><a href="https://link.springer.com/article/10.1007/s10115-024-02252-x">[J1] Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition </a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins></strong>, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, Kijung Shin</div>
     <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>      
     <div class="links">
