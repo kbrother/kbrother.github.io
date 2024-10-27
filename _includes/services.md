@@ -10,7 +10,5 @@
 
 <ul style="margin:0 0 20px;">
   <li>Big Data Research 2024 </li>
-</ul>
-<ul style="margin:0 0 20px;">
   <li>ACM Transactions on Knowledge Discovery from Data (TKDD) 2024 </li>
 </ul>
