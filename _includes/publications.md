@@ -18,11 +18,11 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[J2] Begin: Extensive Benchmark Scenarios and an Easy-to-use Framework for Graph Continual Learning (to appear) </div>
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3702648">[J2] Begin: Extensive Benchmark Scenarios and an Easy-to-use Framework for Graph Continual Learning  </a></div>
     <div class="author"> Jihoon Ko*, Shinhwan Kang*, <strong><ins>Taehyung Kwon</ins></strong>, Heechan Moon, Kijung Shin </div>
     <div class="periodical"><em><strong>ACM TIST</strong>: ACM Transactions on Intelligent Systems and Technology </em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2211.14568.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3702648" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ShinhwanKang/BeGin" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
     </div>
   </div>
