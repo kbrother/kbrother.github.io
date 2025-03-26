@@ -3,6 +3,15 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">[C8] Simple yet Effective Node Property Prediction on Edge Streams under Distribution Shifts (to appear) </div>
+    <div class="author"> Jongha Lee, <strong><ins>Taehyung Kwon</ins></strong>, Heechan Moon, Kijung Shin </div>
+    <div class="periodical"><em><strong>ICDE 2025</strong></em></div>       
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
