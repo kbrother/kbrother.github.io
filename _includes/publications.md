@@ -16,9 +16,13 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[C7] Kronecker Generative Models for Power-Law Patterns in Real-World Hypergraphs (to appear) </div>
+    <div class="title"><a href=https://dl.acm.org/doi/abs/10.1145/3696410.3714893> [C7] Kronecker Generative Models for Power-Law Patterns in Real-World Hypergraphs (to appear) </div>
     <div class="author"> Minyoung Choe, Jihoon Ko, <strong><ins>Taehyung Kwon</ins></strong>, Kijung Shin, and Christos Faloutsos </div>
     <div class="periodical"><em><strong>WWW 2025</strong></em></div>       
+    <div class="links">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714893" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/young917/HyRec" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
+    </div>
   </div>
 </div>
 </li>
