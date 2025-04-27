@@ -16,7 +16,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714893"> [C7] Kronecker Generative Models for Power-Law Patterns in Real-World Hypergraphs (to appear) </a></div>
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714893"> [C7] Kronecker Generative Models for Power-Law Patterns in Real-World Hypergraphs </a></div>
     <div class="author"> Minyoung Choe, Jihoon Ko, <strong><ins>Taehyung Kwon</ins></strong>, Kijung Shin, and Christos Faloutsos </div>
     <div class="periodical"><em><strong>WWW 2025</strong></em></div>       
     <div class="links">
