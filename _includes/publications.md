@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[J3] Effective and Lightweight Lossy Compression of Tensors: Techniques and Applications (to appear)</div>
+    <div class="title"><a href="https://link.springer.com/article/10.1007/s10115-025-02471-w"> [J3] Effective and Lightweight Lossy Compression of Tensors: Techniques and Applications </a></div>
     <div class="author"> Jihoon Ko, <strong><ins>Taehyung Kwon</ins></strong>, Jinhong Jung, Kijung Shin </div>
     <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>
   </div>
