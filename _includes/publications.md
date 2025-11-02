@@ -23,10 +23,10 @@
     <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300c521/26FZAZvdly8"> [C8] Simple yet Effective Node Property Prediction on Edge Streams under Distribution Shifts </a></div>
     <div class="author"> Jongha Lee, <strong><ins>Taehyung Kwon</ins></strong>, Heechan Moon, Kijung Shin </div>
     <div class="periodical"><em><strong>ICDE 2025</strong></em></div>       
-  </div>
-  <div class="links">
+    <div class="links">
       <a href="https://arxiv.org/pdf/2504.00328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/jihoonko/elicit" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
+  </div>
   </div>
 </div>
 </li>
