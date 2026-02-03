@@ -10,7 +10,7 @@ My research interests include data mining, data compression, and matrix and tens
 
 ## Education
 ### KAIST
-- **Ph.D.** in Artificial Intelligence (Mar. 2022 - )<br>
+- **Ph.D.** in Artificial Intelligence (Mar. 2022 - Feb. 2026)<br>
 - **M.S** in Artificial Intelligence (Mar. 2020 - Feb. 2022)<br>
 - **B.S.** in Computer Science (Mar. 2015 - Feb. 2020)
 
