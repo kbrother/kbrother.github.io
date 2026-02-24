@@ -11,7 +11,7 @@
     <div class="periodical"><em><strong>ICDE 2026 </strong></em></div>  
   </div>
 </div>
-</li
+</li>
 
 <li>
 <div class="pub-row">
