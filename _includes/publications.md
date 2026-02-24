@@ -6,6 +6,16 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">[C9] Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression (to appear) </div>
+    <div class="author"> <strong><ins>Taehyung Kwon</ins>*</strong>, Yeonje Choi*, Yeongho Kim, Kijung Shin </div>
+    <div class="periodical"><em><strong>ICDE 2026 </strong></em></div>  
+  </div>
+</div>
+</li
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/article/10.1007/s10115-025-02471-w"> [J3] Effective and Lightweight Lossy Compression of Tensors: Techniques and Applications </a></div>
     <div class="author"> Jihoon Ko, <strong><ins>Taehyung Kwon</ins></strong>, Jinhong Jung, Kijung Shin </div>
     <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>
