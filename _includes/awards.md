@@ -1,2 +1,4 @@
 ## Awards and Honors
-- **IEEE ICDM 2023 Best Student Paper Runner-up Award**
+- **One of the Best-Ranked Papers of ICDM 2O24**
+- **Best Student Paper Runner-up Award at ICDM 2023**
+- **One of the Best-Ranked Papers of ICDM 2O23**
