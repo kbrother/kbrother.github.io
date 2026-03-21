@@ -9,6 +9,10 @@
     <div class="title">[C9] Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression (to appear) </div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins>*</strong>, Yeonje Choi*, Yeongho Kim, and Kijung Shin </div>
     <div class="periodical"><em><strong>ICDE 2026 </strong></em></div>  
+    <div class="links">
+      <a href="https://arxiv.org/abs/2603.10410" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/kbrother/STemDist" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
+    </div>
   </div>
 </div>
 </li>
@@ -21,7 +25,7 @@
     <div class="periodical"><em><strong>Knowledge and Information Systems </strong></em></div>
     <div class="links">
       <a href="https://link.springer.com/content/pdf/10.1007/s10115-025-02471-w.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/jhsk777/SPLASH" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
+      <a href="https://github.com/jihoonko/elicit" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
     </div>
   </div>
 </div>
