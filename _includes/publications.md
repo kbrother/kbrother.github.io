@@ -12,6 +12,7 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2603.10410" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/STemDist" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>     
+      <a href="https://kbrother.github.io/assets/stemdist_final.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
     </div>
   </div>
 </div>
