@@ -10,6 +10,7 @@
 <ul style="margin:0 0 5px;">
   <li>KDD 2024 - 2026</li>
   <li>WWW 2026</li>
+  <li>ICDM 2026</li>
   <li>CIKM 2025 - 2026 </li>
 </ul>
 
