@@ -5,8 +5,8 @@ layout: homepage
 ## About Me
 I am a Postdoctoral Researcher at the Information & Electronics Research Institute, [KAIST](https://kaist.ac.kr/kr/), working with [Prof. Kijung Shin](https://kijungs.github.io/).
 I received a Ph.D. degree in Artificial Intelligence at KAIST in 2026, advised by Prof. [Prof. Kijung Shin](https://kijungs.github.io/).
-I received B.S. in Computer Science from [KAIST](https://kaist.ac.kr/kr/).
-My research interests include data-centric AI, data compression, and data distillation.
+I received B.S. in Computer Science from KAIST.
+My research interests include, but are not limited to, data-centric AI, data compression, and data distillation.
 
 ## Work Experience
 ### KAIST
