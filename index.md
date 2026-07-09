@@ -9,6 +9,10 @@ I received a Ph.D. degree in Artificial Intelligence at KAIST in 2026, advised b
 I received B.S. in Computer Science from [KAIST](https://kaist.ac.kr/kr/).
 My research interests include tensor decomposition, data compression, and data distillation.
 
+## Work Experience
+### KAIST
+- Postdoctoral Researcher (Mar. 2026 - Present)
+
 ## Education
 ### KAIST
 - **Ph.D.** in Artificial Intelligence (Mar. 2022 - Feb. 2026)<br>
