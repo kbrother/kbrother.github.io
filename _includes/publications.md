@@ -115,7 +115,6 @@
       <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671846" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
       <a href="https://github.com/kbrother/Light-IT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
       <a href="https://kbrother.github.io/assets/KDD24_LightIT.pptx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
-      <a href="https://dblp.org/rec/conf/kdd/KwonKJJS24.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>    
   </div>
 </div>
@@ -132,7 +131,6 @@
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415668" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>      
       <a href="https://github.com/kbrother/TensorCodec" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>      
       <a href="https://kbrother.github.io/assets/ICDM23_TensorCodec.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
-      <a href="https://dblp.org/rec/conf/icdm/KwonKJS23.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>    
   </div>
 </div>
@@ -149,7 +147,6 @@ Reorderable Matrices and Tensors</a></div>
       <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583226" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kbrother/NeuKron" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
       <a href="https://kbrother.github.io/assets/NeuKron_WWW23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
-      <a href="https://dblp.org/rec/conf/www/KwonKJS23.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
@@ -166,7 +163,6 @@ Bi-Cliques in Dynamic Graphs</a></div>
     <div class="links">
       <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hyeonjeong1/cutnpeel" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
-      <a href="https://dblp.org/rec/conf/wsdm/ShinKSS22.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
@@ -180,7 +176,6 @@ Bi-Cliques in Dynamic Graphs</a></div>
     <div class="periodical"><em>Preprint, 2021.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2106.06210.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://dblp.org/rec/journals/corr/abs-2106-06210.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>    
     </div>
   </div>
 </div>
@@ -205,7 +200,6 @@ Sparse Tensor Streams</a></div>
       <a href="https://github.com/DMLab-Tensor/SliceNStitch" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code&Datasets</a>
       <a href="https://kbrother.github.io/assets/SliceNStitch_ICDE21.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>  -->
-      <a href="https://dblp.org/rec/conf/icde/Kwon0LS21.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->      
     </div>
   </div>
