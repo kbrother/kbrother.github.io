@@ -8,7 +8,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>KDD 2024 - 2026</li>
+  <li>KDD 2024 - 2027 </li>
   <li>WWW 2026</li>
   <li>ICDM 2026</li>
   <li>CIKM 2025 - 2026 </li>
