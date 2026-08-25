@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[C9] Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression (to appear) </div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11629197">[C9] Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression </a></div>
     <div class="author"> <strong><ins>Taehyung Kwon</ins>*</strong>, Yeonje Choi*, Yeongho Kim, and Kijung Shin </div>
     <div class="periodical"><em><strong>ICDE 2026 </strong></em></div>  
     <div class="links">
